@@ -1,0 +1,22 @@
+From 77da5858bd72727929641ef492a27cc32c89fc18 Mon Sep 17 00:00:00 2001
+From: killer <killer@git.com>
+Date: Thu, 10 Sep 2015 14:34:51 +0800
+Subject: [PATCH] Added new s.c
+
+---
+ src/s.c |    4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+diff --git a/src/s.c b/src/s.c
+index 4e1e74b..3f35688 100644
+--- a/src/s.c
++++ b/src/s.c
+@@ -1,3 +1,3 @@
+ kdfjls
+-jdkjf
+-mcx.c,.z,
++jdkjfl
++mcxfjk
+-- 
+1.7.9.5
+
